@@ -22,8 +22,7 @@ for line in sys.stdin:
 
     #result = result + twoofem
     print(result)
-    
-    
+
 
 
 
